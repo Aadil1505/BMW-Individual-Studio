@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+bun.lock
+next-env.d.ts
+AGENTS.md
+*.svg
+*.png
+*.ico
